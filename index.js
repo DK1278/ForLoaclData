@@ -7,6 +7,7 @@ function index() {
             <div>
                 first branch change
             </div>
+            <button>Main Change</button>
         </div>
 
     )
